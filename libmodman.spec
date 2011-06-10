@@ -16,6 +16,7 @@ URL:		http://code.google.com/p/libmodman/
 BuildRequires:	cmake >= 2.6
 BuildRequires:	libstdc++-devel
 BuildRequires:	rpmbuild(macros) >= 1.605
+Conflicts:	libproxy < 0.4.7
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
