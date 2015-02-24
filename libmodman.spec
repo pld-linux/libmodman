@@ -6,7 +6,7 @@ Summary:	Module Manager library
 Summary(pl.UTF-8):	Biblioteka zarządcy modułów
 Name:		libmodman
 Version:	2.0.1
-Release:	1
+Release:	2
 License:	LGPL v2.1+
 Group:		Libraries
 #Source0Download: http://code.google.com/p/libmodman/downloads/list
